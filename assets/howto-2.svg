@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 150" role="img" aria-label="Connect the invoices tank to your business">
+  <rect width="240" height="150" rx="18" fill="#06063A"/>
+  <rect x="16" y="40" width="40" height="64" rx="10" fill="#0B0B48" stroke="#DCD6FF" stroke-width="2"/>
+  <rect x="18" y="64" width="36" height="38" rx="8" fill="#28CCFF"/>
+  <text x="36" y="88" text-anchor="middle" font-family="Lexend Deca, sans-serif" font-size="14" font-weight="700" fill="#06063A">£</text>
+  <path d="M56 72h44a18 18 0 0 1 18 18v4a18 18 0 0 0 18 18h50" fill="none" stroke="#DCD6FF" stroke-width="16"/>
+  <path d="M56 72h44a18 18 0 0 1 18 18v4a18 18 0 0 0 18 18h50" fill="none" stroke="#28CCFF" stroke-width="7"/>
+  <rect x="186" y="78" width="40" height="52" rx="8" fill="#3919F7"/>
+  <g fill="#F3F2FB"><rect x="194" y="86" width="8" height="8" rx="2"/><rect x="210" y="86" width="8" height="8" rx="2"/><rect x="194" y="100" width="8" height="8" rx="2"/><rect x="210" y="100" width="8" height="8" rx="2"/></g>
+  <text x="36" y="30" text-anchor="middle" font-family="Lexend Deca, sans-serif" font-size="10" fill="#DCD6FF">Invoices sent</text>
+  <text x="206" y="68" text-anchor="middle" font-family="Lexend Deca, sans-serif" font-size="10" fill="#DCD6FF">Your business</text>
+</svg>

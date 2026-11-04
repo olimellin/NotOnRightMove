@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 150" role="img" aria-label="Pick a pipe from the tray and tap the board to place it">
+  <rect width="240" height="150" rx="18" fill="#06063A"/>
+  <g fill="#10105A" stroke="#DCD6FF" stroke-opacity=".18">
+    <rect x="30" y="22" width="46" height="46" rx="8"/><rect x="80" y="22" width="46" height="46" rx="8"/><rect x="130" y="22" width="46" height="46" rx="8"/>
+    <rect x="30" y="72" width="46" height="46" rx="8"/><rect x="80" y="72" width="46" height="46" rx="8"/><rect x="130" y="72" width="46" height="46" rx="8"/>
+  </g>
+  <path d="M30 45h46M80 45a23 23 0 0 1 23 23v4a23 23 0 0 0 0 0" fill="none" stroke="#DCD6FF" stroke-width="16"/>
+  <path d="M30 45h46M80 45a23 23 0 0 1 23 23" fill="none" stroke="#28CCFF" stroke-width="7"/>
+  <path d="M103 72v46" fill="none" stroke="#DCD6FF" stroke-width="16" opacity=".45"/>
+  <circle cx="113" cy="104" r="15" fill="#28CCFF" fill-opacity=".25" stroke="#28CCFF" stroke-width="3"/>
+  <path d="M196 40a22 22 0 1 1-6-14" fill="none" stroke="#7B6FE8" stroke-width="5" stroke-linecap="round"/>
+  <path d="M186 18l6 9-10 2z" fill="#7B6FE8"/>
+  <text x="200" y="100" text-anchor="middle" font-family="Lexend Deca, sans-serif" font-size="14" font-weight="700" fill="#F3F2FB">R</text>
+  <text x="200" y="118" text-anchor="middle" font-family="Lexend Deca, sans-serif" font-size="10" fill="#DCD6FF">rotate</text>
+</svg>
